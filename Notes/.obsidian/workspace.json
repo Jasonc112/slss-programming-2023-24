@@ -96,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Markdown (Re)Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Markdown (Re)Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,11 +135,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Markdown (Re)Introduction.md"
+              }
+            }
+          },
+          {
+            "id": "71b8c9cb58c59b4b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83e7473a279d9d8a",
+  "active": "71b8c9cb58c59b4b",
   "lastOpenFiles": [
     "Markdown (Re)Introduction.md",
     "Untitled"
