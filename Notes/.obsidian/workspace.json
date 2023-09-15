@@ -16,19 +16,18 @@
             }
           },
           {
-            "id": "83e7473a279d9d8a",
+            "id": "70ca70f04d9df745",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown (Re)Introduction.md",
+                "file": "Natural Language Processing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown (Re)Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown (Re)Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Markdown (Re)Introduction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71b8c9cb58c59b4b",
+  "active": "041c99047933eac5",
   "lastOpenFiles": [
+    "Natural Language Processing.md",
     "Markdown (Re)Introduction.md",
     "Untitled"
   ]
