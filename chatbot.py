@@ -9,35 +9,44 @@ import time
 print("Hello there! 🤖")
 
 # Pause for 1.5 seconds
-time.sleep(1.5)
+time.sleep(1)
 print("I'm a crude Chatbox, here to talk to you.")
-time.sleep(1.5)
+time.sleep(1)
 
 # Get the user's name and store it in a variable
 user_name = input("So... What's your name? ")
 
 # Respond with the user's name in a friendly way
-time.sleep(1.5)
+time.sleep(1)
 print(f"It's good to meet you, {user_name}.")
 
 # Ask the user what their favourite food is
 time.sleep(1)
 favourite_food = input("What's your favourite food? ")
 
-# Make a comment about their food
-# Create a list of possible responses
-list_of_food_responses = [
-    f"Oh. I've never had {favourite_food} before.",
-    "Mmmmmmmm. That sounds good!",
-    "I heard that that is delicious.",
-    "Cool."
-]
+# If their favourite food is sushi, reply with yum
+if favourite_food == "sushi":
+    print("Yum! 🍣")
+    print("I think I love sushi !")
+elif favourite_food == "burgers" or favourite_food == "Burgers":
+    print("🍔")
+    print("Burgers, I love burgers")
 
-time.sleep(1.5)
+else:
+    # Make a comment about their food
+    # Create a list of possible responses
+    list_of_food_responses = [
+        f"Oh. I've never had {favourite_food} before.",
+        "Mmmmmmmm. That sounds good!",
+        "I heard that that is delicious.",
+        "Cool."
+        ]
 
-# Choose one of those responses randomly
+    time.sleep(1)
 
-random_food_response = random.choice(list_of_food_responses)
+    # Choose one of those responses randomly
 
-# Print out that chosen response 
-print(random_food_response)
+    random_food_response = random.choice(list_of_food_responses)
+
+    # Print out that chosen response 
+    print(random_food_response)
