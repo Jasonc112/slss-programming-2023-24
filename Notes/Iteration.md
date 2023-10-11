@@ -73,3 +73,29 @@ for name in names:
 	if name == "Jasmine Soto":
 		print("We found her!")
 ```
+
+# Iterating *n Number of Times
+
+We can iterate/loop for any 
+
+
+```python
+for i in range(<positive integer>)
+
+```
+
+Recall that in the other way of looping (for `item` in `list`), that `item` points at the current item in the list.
+
+In this way of looping, that `item` thing shows is how many times we've looped since the beginning.
+
+For example, we can do something like this:
+
+```python
+# Repeat something 5 times and we want to keep track
+# of how many iterations we've sompleted
+
+for i in range(5):
+	print(i)
+```
+
+simply put. `i` is a counter 
