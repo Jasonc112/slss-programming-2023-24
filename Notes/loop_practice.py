@@ -37,3 +37,11 @@ pyramid = ["*", "**", "***", "****", "*****", "******"]
 
 for row in pyramid:
     print(row)
+
+import time
+
+countdown = ["10", "9", "8", "7", "6", "5", "4","3", "2","1", "HAPPY NEW YEAR!!🥁"]
+
+for number in countdown :
+    print (f"{number}")
+    time.sleep (1)
