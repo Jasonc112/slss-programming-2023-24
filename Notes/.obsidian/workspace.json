@@ -32,6 +32,14 @@
             }
           },
           {
+            "id": "ca52f604657e3cbb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "ad6e16ae6f9bc9f4",
             "type": "leaf",
             "state": {
@@ -52,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iteration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iteration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Iteration.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,8 +194,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e925cbed23cd373",
+  "active": "ca52f604657e3cbb",
   "lastOpenFiles": [
+    "Modules.md",
     "Errors.md",
     "Design.md",
     "Iteration.md",
@@ -201,7 +206,6 @@
     "Boolean.md",
     "Conditionals.md",
     "Natural Language Processing.md",
-    "Modules.md",
     "Lists.md",
     "warmup.py",
     "Markdown (Re)Introduction.md",
