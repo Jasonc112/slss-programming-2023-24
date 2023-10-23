@@ -97,3 +97,5 @@ else:
 # Print out "Mr. Ubial is cool" 20 times
 for _ in range(1_000):
     print("Mr. Ubial is cool")
+
+    
