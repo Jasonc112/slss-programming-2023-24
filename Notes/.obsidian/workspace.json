@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Iteration.md",
+                "file": "Markdown (Re)Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaa5c5a7c82d3260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Iteration.md",
+                "file": "Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Iteration.md",
+                "file": "Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Iteration.md"
+                "file": "Types.md"
               }
             }
           },
@@ -202,22 +214,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca52f604657e3cbb",
+  "active": "aaa5c5a7c82d3260",
   "lastOpenFiles": [
-    "quiz_1.md",
-    "Strings.md",
-    "Boolean.md",
+    "fave_bubble_tea.py",
+    "number_practice.py",
+    "Markdown (Re)Introduction.md",
+    "Types.md",
     "Modules.md",
+    "Natural Language Processing.md",
+    "quiz_1.md",
     "Errors.md",
-    "Design.md",
     "Iteration.md",
+    "Design.md",
+    "Boolean.md",
+    "Conditionals.md",
+    "Strings.md",
+    "Lists.md",
     "loop_practice.py",
     "food_suggestion_bot.py",
-    "Conditionals.md",
-    "Natural Language Processing.md",
-    "Lists.md",
     "warmup.py",
-    "Markdown (Re)Introduction.md",
     "Untitled"
   ]
 }

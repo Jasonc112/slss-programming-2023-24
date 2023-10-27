@@ -43,7 +43,7 @@ if user_feeling.lower().strip("!.,") == "good":
 
 ## `.split(str)` -> List
 
-The `.split()` method splits a string into a [[list]],separating the string based on the characters you give it.
+The `.split()` method splits a string into a [[list]], separating the string based on the characters you give it.
 
 ```python
 grocery_str = "eggs milk cheese hotwheels"
