@@ -40,4 +40,12 @@ for _ in range(NUM_RESPONDENTS):
 
 # Print out a summary of all the places
 # Give the raw score AND the score as percentage
+total = coco_likes + chatime_likes + suntea_likes + bubqueen_likes
 print(f"CoCo Likes: {coco_likes}")
+print("The percentage is: " + str(coco_likes / total * 100) + "%" )
+print(f"Chatime Likes: {chatime_likes}")
+print("The percentage is: " + str(chatime_likes / total * 100) + "%" )
+print(f"Suntea Likes: {suntea_likes}") 
+print("The percentage is: " + str(suntea_likes / total * 100) + "%" )
+print(f"Bubble Queen Likes: {bubqueen_likes}")
+print("The percentage is: " + str(bubqueen_likes / total * 100) + "%")
