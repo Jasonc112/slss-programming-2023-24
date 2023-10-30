@@ -1,5 +1,5 @@
 # Bubble Tea Popularity Algorithm
-# Author: Ubial
+# Author: Jason
 # Date: 26 October 2023
 
 # Ask 5 users what their favourite bubble tea palce is
