@@ -2,12 +2,15 @@
 # Author: Jason C
 # Date: Nov 3
 
-total_score = 0
+judge_number = 1
+NUMS_RESPONDENTS = 5
+sum = 0.0
 
-for i in range(1, 6):
-    judge_score = float(input(f"Judge {i}:"))
-    total_score += judge_score
+for i in range(NUMS_RESPONDENTS):
+    judge = float(input("Judge " + str(judge_number) + ": "))
+    sum += judge
+    judge_number += 1
 
-average_score = total_score / 5
+average_score = sum / NUMS_RESPONDENTS
 
-print('Your Olympic score is',round(average_score, 1))
+print("Your Olympic score is:", average_score)
