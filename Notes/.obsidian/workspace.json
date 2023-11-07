@@ -240,6 +240,8 @@
   },
   "active": "021b575417cc020a",
   "lastOpenFiles": [
+    "world_traveller_bot.py",
+    "world_traveler_bot.py",
     "age_in_2049.py",
     "olympic_judging.py",
     "mcdonald.py",
@@ -262,8 +264,6 @@
     "Strings.md",
     "Lists.md",
     "loop_practice.py",
-    "food_suggestion_bot.py",
-    "warmup.py",
-    "Untitled"
+    "food_suggestion_bot.py"
   ]
 }
