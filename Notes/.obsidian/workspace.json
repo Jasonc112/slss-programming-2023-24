@@ -240,6 +240,7 @@
   },
   "active": "021b575417cc020a",
   "lastOpenFiles": [
+    "Semester_evaluator_Bot.py",
     "world_traveller_bot.py",
     "world_traveler_bot.py",
     "age_in_2049.py",
@@ -263,7 +264,6 @@
     "Conditionals.md",
     "Strings.md",
     "Lists.md",
-    "loop_practice.py",
-    "food_suggestion_bot.py"
+    "loop_practice.py"
   ]
 }
