@@ -240,6 +240,10 @@
   },
   "active": "021b575417cc020a",
   "lastOpenFiles": [
+    "similarity_scores.py",
+    "data.csv",
+    "Lists.md",
+    "Recommendations Systems.md",
     "Semester_evaluator_Bot.py",
     "world_traveller_bot.py",
     "world_traveler_bot.py",
@@ -248,11 +252,9 @@
     "mcdonald.py",
     "chip_rater.py",
     "Numbers.md",
-    "Recommendations Systems.md",
     "Types.md",
     "pumpkin_drawing.py",
     "fave_bubble_tea.py",
-    "number_practice.py",
     "Markdown (Re)Introduction.md",
     "Modules.md",
     "Natural Language Processing.md",
@@ -262,8 +264,6 @@
     "Design.md",
     "Boolean.md",
     "Conditionals.md",
-    "Strings.md",
-    "Lists.md",
-    "loop_practice.py"
+    "Strings.md"
   ]
 }
