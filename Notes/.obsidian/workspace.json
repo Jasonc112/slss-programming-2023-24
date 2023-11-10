@@ -240,6 +240,7 @@
   },
   "active": "021b575417cc020a",
   "lastOpenFiles": [
+    "sfus_best_sim_score.py",
     "similarity_scores.py",
     "data.csv",
     "Lists.md",
@@ -254,7 +255,6 @@
     "Numbers.md",
     "Types.md",
     "pumpkin_drawing.py",
-    "fave_bubble_tea.py",
     "Markdown (Re)Introduction.md",
     "Modules.md",
     "Natural Language Processing.md",
