@@ -22,4 +22,11 @@ def fib(n: int) -> int:
     elif n > 2:
         return fib(n - 1) + fib(n - 2)
 
-print(``)
+def fib_itr(n: int) -> int:
+    """Return the nth Fibonacci number.
+    Calculate this iteratively."""
+    last_num, num, result = 0, 1, 0
+
+    for i in range(n):
+        result = last_num + num
+
