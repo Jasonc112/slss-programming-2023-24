@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4dc3b76b9d4f0b2b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -208,7 +218,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -230,8 +242,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad6e16ae6f9bc9f4",
+  "active": "4dc3b76b9d4f0b2b",
   "lastOpenFiles": [
+    "winter_holidays.py",
     "imagine_example.py",
     "Functions.md",
     "Errors.md",
@@ -246,7 +259,6 @@
     "similarity_score.ppy",
     "parentalBot.py",
     "similar_hobbies.py",
-    "sfus_best_sim_score.py",
     "Lists.md",
     "Recommendations Systems.md",
     "Numbers.md",
