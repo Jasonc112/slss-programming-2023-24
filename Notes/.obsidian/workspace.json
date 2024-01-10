@@ -244,6 +244,7 @@
   },
   "active": "4dc3b76b9d4f0b2b",
   "lastOpenFiles": [
+    "bean_counter.py",
     "winter_holidays.py",
     "imagine_example.py",
     "Functions.md",
@@ -258,7 +259,6 @@
     "similarity_score.py",
     "similarity_score.ppy",
     "parentalBot.py",
-    "similar_hobbies.py",
     "Lists.md",
     "Recommendations Systems.md",
     "Numbers.md",
